@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd-numbered-content {
+    background-color: #f7456080;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#blue-even-content {
+    color: #0942ed;
+    font-size: 36px;
+}
+
+.second-odd-numbered-content {
+    font-size: 24px;
+}
+
+#green-even-content {
+    background-color: #82f493;
+    font-size: 24px;
+    font-weight: 700;
+}
